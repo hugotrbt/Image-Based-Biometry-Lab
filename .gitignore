@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Backup / temp files
+*~
+*.swp
+*.tmp
+
+# Binaries / executables
+bin/
+lib/*.a
+lib/*.so
+lib/*.dylib
+
+# Compiled objects
+*.o
+*.obj
+
+# Build folders (si tu ajoutes un dossier build)
+build/
+
+# Logs
+*.log
+
+# Generated images or reports (si tu veux les régénérer)
+Images_rapport/generated/
+
+# Notebook checkpoints (si tu as utilisé Jupyter)
+.ipynb_checkpoints/
+
